@@ -15,10 +15,10 @@ The repository is beginner-friendly and serves as a resource for anyone interest
 To analyze your Spotify streaming habits, you first need to obtain your personal data from Spotify. Follow these steps to request and download your data:
 
 1. **Visit Spotify's Privacy Settings**  
-   Go to [Spotify's Privacy Settings](https://www.spotify.com/account/privacy/).
+   - Go to [Spotify's Privacy Settings](https://www.spotify.com/account/privacy/).
 
 2. **Log in to your Spotify account**  
-   If prompted, log in to your Spotify account.
+   - If prompted, log in to your Spotify account.
 
 3. **Request Your Data**  
    - Under the "Privacy Settings" section, locate and click on **"Request Your Data"**.  
