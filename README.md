@@ -4,7 +4,7 @@ Create your own personalized "Spotify Wrapped" and explore detailed trends and p
 
 ## Introduction
 
-This project analyzes Spotify streaming data to uncover unique listening trends and patterns. Whether you're curious about your favorite artists, seasonal preferences, or how your music taste evolves over time, this analysis can guide you to find those insights.
+This project analyzes Spotify streaming data to uncover unique listening trends and patterns. Whether you're curious about your favorite artists, seasonal preferences, or how your music taste evolves over time, this analysis can guide you to find those insights. 
 
 The repository is beginner-friendly and serves as a resource for anyone interested in exploring their streaming data more thoroughly.
 
