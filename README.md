@@ -36,8 +36,6 @@ To analyze your Spotify streaming habits, you first need to obtain your personal
 
 For more details on Spotify's data access process, visit [Spotify Data Rights and Privacy Settings](https://www.spotify.com/account/privacy/).
 
----
-
 ## Project Structure
 
 This repository contains the following Jupyter notebooks, each focusing on a different aspect of analysis:
@@ -54,6 +52,13 @@ This repository contains the following Jupyter notebooks, each focusing on a dif
 4. **Platform and Behavioral Insights**  
    - Investigates how different platforms and devices influence your streaming behavior.
 
----
+## Environment Setup
 
+To run the analysis, ensure you have Python installed along with the following libraries:
 
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `seaborn`
+- `os` (built-in)
+- `wordcloud`
