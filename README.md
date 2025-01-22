@@ -36,4 +36,24 @@ To analyze your Spotify streaming habits, you first need to obtain your personal
 
 For more details on Spotify's data access process, visit [Spotify Data Rights and Privacy Settings](https://www.spotify.com/account/privacy/).
 
+---
+
+## Project Structure
+
+This repository contains the following Jupyter notebooks, each focusing on a different aspect of analysis:
+
+1. **Data Cleaning and Preparation**  
+   - Prepares the raw Spotify streaming data for analysis by cleaning and organizing it.
+
+2. **Trends Over Time**  
+   - Explores how your listening habits evolve across different timeframes, including daily, monthly, and seasonal trends.
+
+3. **Content Discovery and Engagement Analysis**  
+   - Analyzes your interaction with music, such as discovering new artists and engagement patterns.
+
+4. **Platform and Behavioral Insights**  
+   - Investigates how different platforms and devices influence your streaming behavior.
+
+---
+
 
