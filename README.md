@@ -46,12 +46,6 @@ This repository contains the following Jupyter notebooks, each focusing on a dif
 2. **Trends Over Time**  
    - Explores how your listening habits evolve across different timeframes, including daily, monthly, and seasonal trends.
 
-3. **Content Discovery and Engagement Analysis**  
-   - Analyzes your interaction with music, such as discovering new artists and engagement patterns.
-
-4. **Platform and Behavioral Insights**  
-   - Investigates how different platforms and devices influence your streaming behavior.
-
 ## Environment Setup
 
 To run the analysis, ensure you have Python installed along with the following libraries:
