@@ -42,7 +42,7 @@ This repository contains the following Jupyter notebooks, each focusing on a dif
 
 1. **Data Cleaning and Preparation**  
    - Prepares the raw Spotify streaming data for analysis by cleaning and organizing it.
-
+     
 2. **Trends Over Time**  
    - Explores how your listening habits evolve across different timeframes, including daily, monthly, and seasonal trends.
 
